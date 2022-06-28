@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TensorFlow Lite Project</string>
+    <string name="imageview">ImageView</string>
+    <string name="load_image">Load Image</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="output">Output:</string>
+    <string name="result">Result</string>
+    <string name="search_google">Click On Result to search in Google!</string>
+</resources>
